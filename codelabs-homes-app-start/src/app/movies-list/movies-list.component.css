@@ -1,0 +1,30 @@
+  .listing {
+    padding-bottom: 30px;
+  }
+  .listing-heading {
+    color: var(--primary-color);
+    padding: 10px 20px 0 20px;
+  }
+  
+  .listing-photo {
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+  }
+
+  .listing-name {
+    font-size: 24pt;
+    margin-bottom: 5px;
+  }
+
+  .listing-duration{
+    margin-top: 5px;
+    font-size: 12pt;
+  }
+
+  .listing-rating{
+    margin-top: 10px;
+    font-size: 12pt;
+  }
+  
+ 
